@@ -1,0 +1,2 @@
+# srosg
+Website for SunriseOpenScoutGroup
